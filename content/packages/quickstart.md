@@ -122,7 +122,7 @@ You can view all of the packages you have published.
 {% data reusables.package_registry.navigate-to-packages %}
 
 
-## Installing a published package
+## Installing a published package ...
 
 Now that you've published the package, you'll want to use it as a dependency across your projects. For more information, see "[Working with the npm registry](/packages/working-with-a-github-packages-registry/working-with-the-npm-registry#installing-a-package)."
 
